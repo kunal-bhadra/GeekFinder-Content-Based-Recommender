@@ -39,7 +39,7 @@ In the end, the web app was deployed to **Heroku**.
  - [Recommender Systems 101](https://builtin.com/data-science/recommender-systems)
  - [Applying ML in Dating Apps](https://analyticsindiamag.com/ai-dating-apps-machine-learning-comes-rescue-dating-apps/)
  - [Deeper look into Content-Based Recommendation](https://www.kdnuggets.com/2020/07/building-content-based-book-recommendation-engine.html)
- - [LightFM - A Hybrid Recommendation Alogirthm in Python](https://github.com/lyst/lightfm)
+ - [LightFM - A Hybrid Recommendation Algorithm in Python](https://github.com/lyst/lightfm)
 
 
 ## ℹ Appendix
