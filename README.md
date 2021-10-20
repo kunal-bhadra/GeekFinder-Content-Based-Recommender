@@ -17,7 +17,7 @@ Try GeekFinder [here](https://geektinder.herokuapp.com/)
 
 Demo: 
 
-![alt text][https://github.com/kunal-bhadra/GeekFinder-Content-Based-Recommender/blob/main/demo.gif]
+![alt text](https://github.com/kunal-bhadra/GeekFinder-Content-Based-Recommender/blob/main/demo.gif)
 
   
 ## 👨🏻‍💻 Tech Stack for Project Development
