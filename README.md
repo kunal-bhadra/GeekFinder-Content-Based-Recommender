@@ -11,7 +11,7 @@ GeekFinder is a smart ranking system from where you can find peers who share sim
 
 
   
-## Demo 🚀
+## 🚀 Demo
 
 Try GeekFinder [here](https://geektinder.herokuapp.com/)
 
@@ -20,7 +20,7 @@ Demo:
 ![alt text](https://github.com/kunal-bhadra/GeekFinder-Content-Based-Recommender/blob/main/demo.gif)
 
   
-## Tech Stack for Project Development 👨🏻‍💻
+## ✏ Tech Stack for Project Development
 
 - Python
 - Flask
@@ -34,7 +34,7 @@ Demo:
 In the end, the web app was deployed to **Heroku**.
 
   
-## Some Resources We Used 🧠
+## 🧠 Some Resources We Used
 
  - [Recommender Systems 101](https://builtin.com/data-science/recommender-systems)
  - [Applying ML in Dating Apps](https://analyticsindiamag.com/ai-dating-apps-machine-learning-comes-rescue-dating-apps/)
@@ -42,12 +42,12 @@ In the end, the web app was deployed to **Heroku**.
  - [LightFM - A Hybrid Recommendation Algorithm in Python](https://github.com/lyst/lightfm)
 
 
-## Appendix ℹ
+## ℹ Appendix
 This project was ideated, developed and deployed end-to-end within just 6 weeks with a team of four members from the Batch 1 of [Crework's](https://www.linkedin.com/company/creworkhq/) _Build With Us_ Program.
 
   
 
-## Project Team 👨🏻‍🎓
+## 👨🏻‍🎓 Project Team
 
 - [@kunalbhadra](https://github.com/kunal-bhadra)
 - [@muskanbagrecha](https://github.com/muskanbagrecha)
@@ -56,7 +56,7 @@ This project was ideated, developed and deployed end-to-end within just 6 weeks 
 
   
 
-## Connect with me: 🔗
+## 🔗 Connect with me:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.polywork.com/kunal_bhadra)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-bhadra-cs/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kunal_kaun)
